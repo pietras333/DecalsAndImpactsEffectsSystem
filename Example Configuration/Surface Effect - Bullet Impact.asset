@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 146595c8341983640adfe0b793e2b48b, type: 3}
+  m_Name: Surface Effect - Bullet Impact
+  m_EditorClassIdentifier: 
+  SpawnObjectEffects:
+  - {fileID: 11400000, guid: adbc6fca9f5358143997cddbe37b2408, type: 2}
+  - {fileID: 11400000, guid: 8941705f85bf8c144946f891b9b38972, type: 2}
+  PlayAudioEffects: []
